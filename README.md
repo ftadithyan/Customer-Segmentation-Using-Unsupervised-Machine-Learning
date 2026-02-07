@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 This project focuses on customer segmentation using **unsupervised machine learning techniques**.  
-The goal is to group customers based on purchasing behavior and income patterns to support business decision-making.
+The goal is to group customers based on purchasing behavior and income patterns to support business decision-making
 
 ---
 
